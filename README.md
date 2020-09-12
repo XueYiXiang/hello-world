@@ -1,4 +1,4 @@
 # hello-world
 test github
 
-I like playing basketb
+I like playing basketball
